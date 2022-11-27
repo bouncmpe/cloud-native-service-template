@@ -1,0 +1,6 @@
+namespace: bouncmpe
+name: my_service
+version: 0.1.0
+readme: README.md
+authors:
+  - Dogan Ulus <dogan.ulus@boun.edu.tr>
